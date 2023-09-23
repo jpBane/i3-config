@@ -23,3 +23,10 @@ After a fresh installation of the i3 window manager, only the configuration file
 mkdir ~/.config/i3status
 cp /etc/i3status.conf ~/.config/i3status/config
 ```
+***
+
+## Complementary Tools
+There are complementary tools that go well with the keyboard-centric navigation of the i3 window manager. The following list reflects my personal preferences:
+* Vim text editor ([more about Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)))
+* Ranger file manager ([more about Ranger](https://en.wikipedia.org/wiki/Ranger_(file_manager)))
+* Tridactyl (a browser extension for firefox to navigate websites mainly keyboard-based) [GitHub page](https://github.com/tridactyl/tridactyl)
